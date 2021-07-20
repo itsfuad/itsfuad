@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @itsfuad
-- 👀 I’m interested in Software dev
-- 🌱 I’m currently learning OpenGL
-- 💞️ I’m looking to collaborate on Game Engine
+![Profile](https://github.com/itsfuad/portfolio.v3/blob/a4cb7216836aae7f1e1aaf003410af489d2223d1/src/images/profile-pic.png)
+# Hi, I'm Fuad Hasan. 
+I'm a software developer, web designer and visual artist. I prefer to code in c++. But now a days I'm much interested in javascript. 
 
-<!---
-itsfuad/itsfuad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[My website](https://itsfuad.netlify.app)
+
+Tools I use:
+![](https://img.icons8.com/fluent/30/000000/visual-studio-2019.png) 
+![](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png)
+![](https://img.icons8.com/color/30/000000/sass.png)
+![](https://img.icons8.com/color/30/000000/npm.png)
+
+Language I use:
+![](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)
+![](https://img.icons8.com/color/30/000000/javascript--v2.png)
+![](https://img.icons8.com/color/30/000000/nodejs.png)
+![](https://img.icons8.com/color/30/000000/golang.png)
+![](https://img.icons8.com/color/30/000000/php.png)
