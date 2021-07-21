@@ -11,7 +11,7 @@ I'm a software developer, web designer and visual artist. I prefer to code in c+
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio" width="26px" src="https://mpng.subpng.com/20180403/fpq/kisspng-computer-icons-microsoft-visual-studio-visual-stud-ico-5ac33141c70179.1100311515227415698151.jpg" />
+<img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
