@@ -1,4 +1,4 @@
-![Profile](https://github.com/itsfuad/portfolio.v3/blob/a4cb7216836aae7f1e1aaf003410af489d2223d1/src/images/profile-pic.png)
+
 # Hi, I'm Fuad Hasan. 
 I'm a software developer, web designer and visual artist. I prefer to code in c++. But now a days I'm much interested in javascript. 
 
