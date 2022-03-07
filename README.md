@@ -13,6 +13,13 @@ I'm a software developer, web designer and visual artist. I prefer to code in c+
 ### Languages and Tools:
 <img align="left" src="https://img.icons8.com/fluent/26/000000/visual-studio-2019.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="cs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+<img align="left" alt="java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
+<img align="left" alt="kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
+
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
