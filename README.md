@@ -4,5 +4,5 @@ I'm a software developer who specializes in creating small software and web prog
 
 
 ### Languages and Tools I use:
-[![My Skills](https://skills.thijs.gg/icons?i=ts,js,svelte,nodejs,python,cs,cpp,java,kotlin,lua,swift,go,rust,redis,mongodb,firebase,mysql,sqlite,vscode,visualstudio,bash)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,js,svelte,nodejs,deno,python,cs,cpp,java,kotlin,lua,swift,go,rust,redis,mongodb,firebase,mysql,sqlite,vscode,visualstudio,bash)](https://skills.thijs.gg)
 
