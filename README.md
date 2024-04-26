@@ -7,4 +7,3 @@ I'm a software developer who specializes in creating small software and web prog
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,svelte,nodejs,deno,python,cs,cpp,java,kotlin,lua,swift,go,rust,redis,mongodb,firebase,mysql,sqlite,vscode,visualstudio,bash)](https://skills.thijs.gg)
 
 ![itsfuad's Stats](https://github-readme-stats.vercel.app/api?username=itsfuad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![itsfuad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsfuad&theme=vue-dark&hide_border=true)
