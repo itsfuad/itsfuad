@@ -5,5 +5,3 @@ I'm a software developer who specializes in creating small software and web prog
 
 ### Languages and Tools I use:
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,svelte,nodejs,deno,python,cs,cpp,java,kotlin,lua,swift,go,rust,redis,mongodb,firebase,mysql,sqlite,vscode,visualstudio,bash)](https://skills.thijs.gg)
-
-<a href="https://gitroll.io/profile/uVBdv70Jg1afMVjYZ9lnfkv19bu23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVBdv70Jg1afMVjYZ9lnfkv19bu23" alt="GitRoll Profile Badge"/></a>
