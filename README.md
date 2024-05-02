@@ -5,3 +5,7 @@ I'm a software developer who specializes in creating small software and web prog
 
 ### Languages and Tools I use:
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,svelte,nodejs,deno,python,cs,cpp,java,kotlin,lua,swift,go,rust,redis,mongodb,firebase,mysql,sqlite,vscode,visualstudio,bash)](https://skills.thijs.gg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfuad&theme=transparent&layout=donut&hide=html,css,scss,ejs,java,cmake,makefile,shell,javascript&langs_count=12&hide_border=true)
+
+![stats](https://github-readme-stats.vercel.app/api?username=itsfuad&theme=transparent&hide_border=true&rank_icon=percentile)
