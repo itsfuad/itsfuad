@@ -9,4 +9,4 @@ I'm a software developer who specializes in creating small software and web prog
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=itsfuad&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![stats](https://github-readme-stats.vercel.app/api?username=itsfuad&theme=transparent&hide_border=true&rank_icon=percentile)
+![stats](https://github-readme-stats.vercel.app/api?username=itsfuad&theme=transparent&hide_border=true)
