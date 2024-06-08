@@ -5,3 +5,5 @@ I'm a software enginner who is focused in highly secured, optimized and maintain
 
 ### Languages and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=ts,svelte,go,cpp,python,lua,redis,mongodb,nodejs,deno,vscode,visualstudio,bash)](https://skillicons.dev)
+
+<a href="https://gitroll.io/profile/uVBdv70Jg1afMVjYZ9lnfkv19bu23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVBdv70Jg1afMVjYZ9lnfkv19bu23" alt="GitRoll Profile Badge"/></a>
