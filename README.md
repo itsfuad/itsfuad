@@ -4,4 +4,4 @@ I'm a software enginner who is focused in highly secured, optimized and maintain
 
 
 ### Languages and Tools I use:
-[![My Skills](https://skillicons.dev/icons?i=ts,svelte,go,cpp,python,lua,redis,mongodb,nodejs,deno,vscode,visualstudio,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,svelte,go,cpp,python,lua,redis,mongodb,nodejs,deno,vscode,visualstudio,git,docker)](https://skillicons.dev)
