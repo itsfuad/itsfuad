@@ -1,7 +1,14 @@
-### Hi there! 
+# Hi there, I'm Fuad 👋
 
-I'm a software enginner who is focused in highly secured, optimized and maintainable programs. I have a wide field of experience from core machine codes to web technologies. I mostly use typescript to setup a project on the go. My primary languges of development are C++, Typescript and Golang.
+## About Me
+- 💻 Software Developer with a passion for building efficient, readable, and optimized code.
+- 🔭 Currently working on **[Walrus](https://github.com/itsfuad/walrus)**, a static, strongly-typed programming language with a focus on simplicity, expressiveness, and beginner-friendliness.
+- 🌱 Learning more about **Svelte** and embedded systems for IoT projects.
 
+## Skills
+- **Programming Languages:**  Go, C++, TypeScript, JavaScript, Walrus (in development)
+- **Frameworks and Libraries:** SvelteKit, Node.js, Deno, Flask, OpenCV, OpenGL, PyTorch
+- **Tools:** VSCode, Visual Studio, Git, Docker, Command-line utilities
 
-### Languages and Tools I use:
-[![My Skills](https://skillicons.dev/icons?i=go,cpp,python,ts,svelte,lua,redis,mongodb,nodejs,deno,bun,vscode,visualstudio,git,docker)](https://skillicons.dev)
+## Projects and Contact
+I do a lot of projects. And they keep being updated. For latest information and to contact me, visit my website https://fuad.brainbird.org
