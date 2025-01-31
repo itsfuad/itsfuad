@@ -8,6 +8,10 @@
 - 🔭 Currently developing **[Walrus](https://github.com/itsfuad/walrus)** — a strongly typed, static programming language focused on simplicity and expressiveness.
 - 🌱 Diving deeper into **Svelte** and **embedded systems** for IoT.
 
+## Contributions
+- [ScyllaDB](https://github.com/scylladb/gocqlx)
+- [Socket.io for Deno](https://github.com/socketio/socket.io-deno)
+- [Walrus](https://github.com/itsfuad/walrus)
 
 ## 🛠️ Tech Stack
 
