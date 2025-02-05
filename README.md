@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fuad
 
-🚀 **Software Developer** | 🔧 **Building Walrus** | 🌱 **Exploring Svelte & IoT**
+🚀 **Systems Engineer** | 🔧 **Building Walrus** | 🌱 **Exploring Svelte & IoT**
 
 
 ## 🧑‍💻 About Me
