@@ -36,8 +36,8 @@
 - [Walrus](https://github.com/itsfuad/walrus)
 
 ## 📫 Let's Connect
-- Portfolio: [yourwebsite.com](https://fuad.brainbird.org)
-- Blog: [blog.yourwebsite.com](https://medium.com/@itsfuad)
+- Portfolio: [fuad.brainbird.org](https://fuad.brainbird.org)
+- Blog: [medium.com](https://medium.com/@itsfuad)
 - Email: fuad.cs22@gmail.com
 
 > "First, solve the problem. Then, write the code." - John Johnson
