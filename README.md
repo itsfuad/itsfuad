@@ -15,7 +15,7 @@
 - [ScyllaDB](https://github.com/scylladb/gocqlx) - ScyllaDB's Go client extension
 - [D2](https://github.com/terrastruct/d2) - Diagram scripting language
 - [Socket.io for Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno
-- [Ferret](https://github.com/itsfuad/ferret) - My own programming language
+- [Ferret](https://github.com/itsfuad/Ferret-Compiler) - My own programming language
 
 ## ✍️ Articles
 Read my thoughts on software engineering at [fuad.brainbird.org](https://fuad.brainbird.org)
