@@ -1,7 +1,7 @@
 # Hi there, I'm Fuad! 👋
 
 ## 🚀 About Me
-**Software Engineer** passionate about building robust solutions and open-source contributions. Focused on creating clean, efficient code and collaborative development.
+**Software Engineer** passionate about building tools and open-source contributions. Focused on creating clean, efficient code and collaborative development.
 
 ## 🛠️ Technologies & Tools
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -12,7 +12,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 📌 Featured Contributions
-- [ScyllaDB](https://github.com/scylladb/gocqlx) - ScyllaDB's Go client extension
+- [ScyllaDB/GOCQLX](https://github.com/scylladb/gocqlx) - ScyllaDB's CQL builder
 - [D2](https://github.com/terrastruct/d2) - Diagram scripting language
 - [Socket.io for Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno
 - [Ferret](https://github.com/itsfuad/Ferret-Compiler) - My own programming language
