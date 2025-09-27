@@ -1,30 +1,34 @@
-# Hi there, I'm Fuad! 👋
+# 👋 Hi, I’m Fuad
 
-## 🚀 About Me
-**Software Engineer** passionate about building tools and open-source contributions. Focused on creating clean, efficient code and collaborative development.
+I’m a **software engineer** passionate about building tools, programming languages, and open-source projects.  
+I focus on **clean, efficient code** and creating things that make developers’ lives easier.
 
-## 🛠️ Technologies & Tools
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+---
 
-## 📌 Featured Contributions
-- [ScyllaDB/GOCQLX](https://github.com/scylladb/gocqlx) - ScyllaDB's CQL builder
-- [D2](https://github.com/terrastruct/d2) - Diagram scripting language
-- [Socket.io for Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno
-- [Ferret](https://github.com/itsfuad/Ferret-Compiler) - My own programming language
+## 🛠️ Tech I Work With
+Go · TypeScript · Svelte · C++ · Python · Lua  
 
-## ✍️ Articles
-Read my thoughts on software engineering at [fuad.brainbird.org](https://fuad.brainbird.org)
+---
 
-> *"First, solve the problem. Then, write the code."* - John Johnson
+## 📌 Featured Work
+- [Ferret](https://github.com/itsfuad/Ferret-Compiler) — a new programming language compiler  
+- [GOCQLX](https://github.com/scylladb/gocqlx) — CQL builder for ScyllaDB  
+- [D2](https://github.com/terrastruct/d2) — diagram scripting language  
+- [Socket.io Deno](https://github.com/socketio/socket.io-deno) — WebSockets for Deno  
 
-## ☕ Support My Work
-<p align="left">
-  <a href="https://www.buymeacoffee.com/itsfuad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>
+---
+
+## ✍️ Writing
+I share notes on software and programming at [fuad.brainbird.org](https://fuad.brainbird.org)
+
+---
+
+## ☕ Support
+<a href="https://www.buymeacoffee.com/itsfuad" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
+</a>
+
+---
+
+> *“First, solve the problem. Then, write the code.”*  
+> — John Johnson
