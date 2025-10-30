@@ -19,7 +19,7 @@ Go · TypeScript · Svelte · C++ · Python · Lua
 ---
 
 ## ✍️ Writing
-I share notes on software and programming at [fuad.brainbird.org](https://fuad.brainbird.org)
+I share notes on software and programming at [itsfuad.com](https://itsfuad.com)
 
 ---
 
