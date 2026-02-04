@@ -14,7 +14,7 @@ Go · C++ · Sveltekit · Astro
 ---
 
 ## 📌 Featured Work
-- [Ferret](https://github.com/itsfuad/Ferret-Compiler) — Ferret Programming language compiler
+- [Ferret](https://github.com/Ferret-Language/Ferret) — Ferret Programming language compiler
 - [Octoload](https://github.com/itsfuad/octoload) - Server load balancer
 - [FurrDB](https://github,com/itsfuad/furrdb) - In memory key value cache database
 - [SquirrelZip](https://github.com/itsfuad/SquirrelZip) - Command-line multi file compression and encryption tool with 0 external dependency
