@@ -17,6 +17,7 @@ Go · C++ · Sveltekit · Astro
 - [Ferret](https://github.com/itsfuad/Ferret-Compiler) — Ferret Programming language compiler
 - [Octoload](https://github.com/itsfuad/octoload) - Server load balancer
 - [FurrDB](https://github,com/itsfuad/furrdb) - In memory key value cache database
+- [SquirrelZip](https://github.com/itsfuad/SquirrelZip) - Command-line multi file compression and encryption tool with 0 external dependency
 - [Poketab Messenger](https://github.com/BrainbirdLab/Poketab-Frontend) - Self hostable realtime messaging platform with end-to-end encryption
 - [Poketune](https://github.com/BrainbirdLab/Poketune) - Instrument tuner PWA
 
