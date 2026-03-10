@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fuad
 
-I’m a **software engineer** passionate about building tools, programming languages, and open-source projects.  
+I’m a **software engineer** passionate about building tools, compilers, and open-source projects.  
 I focus on **clean, efficient code** and creating things that make developers’ lives easier.
 
 ---
