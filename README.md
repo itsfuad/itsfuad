@@ -14,7 +14,7 @@ Go · C++ · Sveltekit · Astro
 ---
 
 ## 📌 Featured Work
-- [Ferret](https://github.com/Ferret-Language/Ferret) — Ferret Programming language compiler
+- [Ferret](https://github.com/Ferret-Language/Ferret) - Ferret Programming language compiler
 - [Octoload](https://github.com/itsfuad/octoload) - Server load balancer
 - [FurrDB](https://github,com/itsfuad/furrdb) - In memory key value cache database
 - [SquirrelZip](https://github.com/itsfuad/SquirrelZip) - Command-line multi file compression and encryption tool with 0 external dependency
@@ -23,9 +23,9 @@ Go · C++ · Sveltekit · Astro
 - [FrostUI](https://github.com/itsfuad/FrostUI) - A modern C++ GUI framework with platform abstraction for Linux (X11) and Windows (Win32)
 
 ## Opensource Contributions
-- [GOCQLX](https://github.com/scylladb/gocqlx) — CQL builder for ScyllaDB  
-- [D2](https://github.com/terrastruct/d2) — diagram scripting language  
-- [Socket.io Deno](https://github.com/socketio/socket.io-deno) — WebSockets for Deno  
+- [GOCQLX](https://github.com/scylladb/gocqlx) - CQL builder for ScyllaDB  
+- [D2](https://github.com/terrastruct/d2) - diagram scripting language  
+- [Socket.io Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno  
 
 ---
 
