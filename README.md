@@ -25,7 +25,8 @@ Go · C++ · Sveltekit · Astro
 ## Opensource Contributions
 - [GOCQLX](https://github.com/scylladb/gocqlx) - CQL builder for ScyllaDB  
 - [D2](https://github.com/terrastruct/d2) - diagram scripting language  
-- [Socket.io Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno  
+- [Socket.io Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno
+- [Zed](https://github.com/zed-industries/zed) - Zed editor
 
 ---
 
