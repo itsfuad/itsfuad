@@ -6,20 +6,22 @@ I focus on **clean, efficient code** and creating things that make developers’
 ---
 
 ## 🛠️ Tech I Work With
-Go · TypeScript · Sveltekit · Astro · React · C++ · C# · Python · Lua
+Go · Rust · TypeScript · Svelte · Astro · React · C · C++ · C# · Python · Lua
 
 ## 🛠️ Tech I'm most comfortable with
-Go · C++ · Sveltekit · Astro
+Go · C · Sveltekit · Astro
 
 ---
 
 ## 📌 Featured Work
+- [Ember](https://github.com/EmberLang/Ember) - Ember Programming language compiler
 - [Ferret](https://github.com/Ferret-Language/Ferret) - Ferret Programming language compiler
+- [Bornika](https://github.com/itsfuad/Bornika) - Unicode based Bangla Keyboard IME for linux
 - [Octoload](https://github.com/itsfuad/octoload) - Server load balancer
 - [FurrDB](https://github,com/itsfuad/furrdb) - In memory key value cache database
 - [SquirrelZip](https://github.com/itsfuad/SquirrelZip) - Command-line multi file compression and encryption tool with 0 external dependency
 - [Poketab Messenger](https://github.com/BrainbirdLab/Poketab-Frontend) - Self hostable realtime messaging platform with end-to-end encryption
-- [Poketune](https://github.com/BrainbirdLab/Poketune) - Instrument tuner PWA
+ [Poketune](https://github.com/BrainbirdLab/Poketune) - Instrument tuner PWA
 - [FrostUI](https://github.com/itsfuad/FrostUI) - A modern C++ GUI framework with platform abstraction for Linux (X11) and Windows (Win32)
 
 ## Opensource Contributions
