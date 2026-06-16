@@ -14,7 +14,7 @@ Go · C · Sveltekit · Astro
 ---
 
 ## 📌 Featured Work
-- [Ember](https://github.com/PeeperLanguage/compiler) - Peeper Programming language compiler
+- [Peeper](https://github.com/PeeperLanguage/compiler) - Peeper Programming language compiler
 - [Ferret](https://github.com/Ferret-Language/Ferret) - Ferret Programming language compiler
 - [Bornika](https://github.com/itsfuad/Bornika) - Unicode based Bangla Keyboard IME for linux
 - [Octoload](https://github.com/itsfuad/octoload) - Server load balancer
