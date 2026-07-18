@@ -21,7 +21,7 @@ Go · C · Sveltekit · Astro
 - [FurrDB](https://github,com/itsfuad/furrdb) - In memory key value cache database
 - [SquirrelZip](https://github.com/itsfuad/SquirrelZip) - Command-line multi file compression and encryption tool with 0 external dependency
 - [Poketab Messenger](https://github.com/BrainbirdLab/Poketab-Frontend) - Self hostable realtime messaging platform with end-to-end encryption
- [Poketune](https://github.com/BrainbirdLab/Poketune) - Instrument tuner PWA
+- [Poketune](https://github.com/BrainbirdLab/Poketune) - Instrument tuner PWA
 - [FrostUI](https://github.com/itsfuad/FrostUI) - A modern C++ GUI framework with platform abstraction for Linux (X11) and Windows (Win32)
 
 ## Opensource Contributions
