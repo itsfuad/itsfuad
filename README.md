@@ -30,6 +30,7 @@ Go · C · Sveltekit · Astro
 - [Socket.io Deno](https://github.com/socketio/socket.io-deno) - WebSockets for Deno
 - [Zed](https://github.com/zed-industries/zed) - Zed editor
 - [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - Free LLM API
+- [Lore](https://github.com/EpicGames/lore) - Version Control System from EpicGames
 
 ---
 
