@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img"><rect x="1" y="1" width="1198" height="418" rx="24" fill="#F3EEE5" stroke="#D8D0C5"/><defs><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#57534D" opacity=".38"/></pattern></defs>
+<rect x="48" y="52" width="28" height="28" fill="#F14A24"/>
+<text x="92" y="101" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="-1.4" fill="#181716">FUAD HASAN</text>
+<text x="54" y="145" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#181716">Software Engineer · Programming Languages · Compilers</text>
+<text x="54" y="172" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#181716">Developer Tooling · Systems</text>
+<text x="54" y="211" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#716B63">I build languages, compiler internals, systems software,</text>
+<text x="54" y="235" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#716B63">infrastructure, and tools for developers.</text><rect x="54" y="262" width="87" height="26" rx="6" fill="#232220"/><text x="65" y="279" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing=".7" fill="#FFFDFC">COMPILERS</text><rect x="150.8" y="262" width="72" height="26" rx="6" fill="#232220"/><text x="161.8" y="279" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing=".7" fill="#FFFDFC">SYSTEMS</text><rect x="233.20000000000002" y="262" width="80" height="26" rx="6" fill="#232220"/><text x="244.20000000000002" y="279" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing=".7" fill="#FFFDFC">DEVTOOLS</text><text x="54" y="332" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#181716">“I like software where the abstractions eventually</text>
+<text x="54" y="359" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#181716">have to answer to the machine.”</text>
+<text x="54" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#716B63">itsfuad.com  ·  github.com/itsfuad</text>
+<rect x="660" y="46" width="490" height="328" rx="18" fill="#232220"/>
+<rect x="660" y="46" width="490" height="328" rx="18" fill="url(#dots)" opacity=".7"/>
+<circle cx="692" cy="76" r="6" fill="#FF6B58"/><circle cx="714" cy="76" r="6" fill="#E3B341"/><circle cx="736" cy="76" r="6" fill="#5FB76A"/>
+<text x="692" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#C8C2B9">$ whoami</text>
+<text x="714" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#FFFDF9">compiler / systems / tooling engineer</text>
+<text x="692" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#C8C2B9">$ current</text>
+<text x="714" y="221" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#FFFDF9">&gt; Peeper language + compiler</text>
+<text x="714" y="251" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#FFFDF9">&gt; ownership / data-flow / LSP</text>
+<text x="714" y="281" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#FFFDF9">&gt; upstream OSS contributions</text>
+<text x="692" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#C8C2B9">$ status</text>
+<text x="714" y="352" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#FFFDF9">building</text>
+<rect x="788" y="338" width="10" height="18" fill="#F14A24"/>
+</svg>

@@ -1,152 +1,125 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile/hero.svg" width="100%" alt="Fuad Hasan — software engineer working on programming languages, compilers, systems and developer tooling" />
+</p>
 
-# Fuad Hasan
+<p align="center">
+  <a href="https://itsfuad.com"><b>Website</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/itsfuad"><b>GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sponsors/itsfuad"><b>Sponsor</b></a>
+</p>
 
-**Software Engineer · Programming Languages · Compilers · Developer Tooling**
+<br>
 
-I build software close to the underlying machinery —  
-languages, compiler internals, systems software, infrastructure, and tools for developers.
+## Flagship
 
-[Website](https://itsfuad.com) · [GitHub](https://github.com/itsfuad) · [Support](https://www.buymeacoffee.com/itsfuad)
+<a href="https://github.com/PeeperLanguage/compiler">
+  <img src="./assets/profile/peeper.svg" width="100%" alt="Peeper programming language and compiler" />
+</a>
 
-</div>
+<p align="center">
+  <a href="https://github.com/PeeperLanguage/compiler"><b>Compiler</b></a>
+  &nbsp;·&nbsp;
+  language design
+  &nbsp;·&nbsp;
+  semantic analysis
+  &nbsp;·&nbsp;
+  ownership
+  &nbsp;·&nbsp;
+  data flow
+  &nbsp;·&nbsp;
+  LSP
+</p>
 
----
+<br>
 
-```text
-$ whoami
+## Selected Projects
 
-  focus      programming languages · compilers · developer tooling · systems
-  primary    Go · C · SvelteKit · Astro
-  also       Rust · C++ · TypeScript · Python · C# · React · Lua
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Ferret-Language/Ferret"><img src="./assets/profile/projects/ferret.svg" width="100%" alt="Ferret" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/itsfuad/Bornika"><img src="./assets/profile/projects/bornika.svg" width="100%" alt="Bornika" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/itsfuad/furrdb"><img src="./assets/profile/projects/furrdb.svg" width="100%" alt="FurrDB" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/itsfuad/octoload"><img src="./assets/profile/projects/octoload.svg" width="100%" alt="Octoload" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/itsfuad/SquirrelZip"><img src="./assets/profile/projects/squirrelzip.svg" width="100%" alt="SquirrelZip" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/itsfuad/FrostUI"><img src="./assets/profile/projects/frostui.svg" width="100%" alt="FrostUI" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/BrainbirdLab/Poketab-Frontend"><img src="./assets/profile/projects/poketab.svg" width="100%" alt="Poketab Messenger" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/BrainbirdLab/Poketune"><img src="./assets/profile/projects/poketune.svg" width="100%" alt="Poketune" /></a></td>
+</tr>
+</table>
 
-$ current
-
-  → designing and building the Peeper programming language
-  → compiler architecture and semantic analysis
-  → type systems, ownership, data flow and drop semantics
-  → language tooling and LSP
-  → contributing to open-source developer tools
-````
-
-## Peeper
-
-### [Peeper Programming Language](https://github.com/PeeperLanguage/compiler)
-
-A programming language and compiler designed around a simple principle:
-
-> **Things should work and feel the way they look.**
-
-The project spans language design, parsing, semantic analysis, type checking,
-ownership, data-flow analysis, drop semantics, module systems, compiler
-architecture, and developer tooling.
-
-`compiler` `language-design` `type-system` `ownership` `data-flow` `LSP`
-
----
-
-## Selected Work
-
-### [Ferret](https://github.com/Ferret-Language/Ferret)
-
-Programming language compiler and language implementation project.
-
-### [Bornika](https://github.com/itsfuad/Bornika)
-
-Unicode-based Bangla keyboard IME for Linux.
-
-### [FurrDB](https://github.com/itsfuad/furrdb)
-
-In-memory key-value cache database.
-
-### [Octoload](https://github.com/itsfuad/octoload)
-
-Server load balancer built around lightweight networking and infrastructure primitives.
-
-### [SquirrelZip](https://github.com/itsfuad/SquirrelZip)
-
-Command-line multi-file compression and encryption tool with **zero external dependencies**.
-
-### [FrostUI](https://github.com/itsfuad/FrostUI)
-
-Modern C++ GUI framework with platform abstraction for Linux/X11 and Windows/Win32.
-
-### [Poketab Messenger](https://github.com/BrainbirdLab/Poketab-Frontend)
-
-Self-hostable realtime messaging platform with end-to-end encryption.
-
-### [Poketune](https://github.com/BrainbirdLab/Poketune)
-
-Progressive web application for instrument tuning.
-
----
+<br>
 
 ## Open Source
 
 I contribute upstream when I find something worth fixing, simplifying, or extending.
 
-**[Zed](https://github.com/zed-industries/zed)**
-High-performance code editor and developer tooling.
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/zed-industries/zed"><img src="./assets/profile/oss/zed.svg" width="100%" alt="Zed" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/scylladb/gocqlx"><img src="./assets/profile/oss/gocqlx.svg" width="100%" alt="GOCQLX" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/d2lang/d2"><img src="./assets/profile/oss/d2.svg" width="100%" alt="D2" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/socketio/socket.io-deno"><img src="./assets/profile/oss/socketio.svg" width="100%" alt="Socket.IO Deno" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/EpicGames/lore"><img src="./assets/profile/oss/lore.svg" width="100%" alt="Lore" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/tashfeenahmed/freellmapi"><img src="./assets/profile/oss/freellmapi.svg" width="100%" alt="FreeLLMAPI" /></a></td>
+</tr>
+</table>
 
-**[GOCQLX](https://github.com/scylladb/gocqlx)**
-CQL query builder for ScyllaDB.
+<details>
+<summary><b>What I tend to optimize for</b></summary>
 
-**[D2](https://github.com/terrastruct/d2)**
-Declarative diagram scripting language.
+<br>
 
-**[Socket.IO Deno](https://github.com/socketio/socket.io-deno)**
-Socket.IO implementation for Deno.
-
-**[Lore](https://github.com/EpicGames/lore)**
-Version control system from Epic Games.
-
-**[FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi)**
-Open-source tooling around accessible LLM APIs.
-
----
-
-## Engineering
-
-The implementation matters, but so does the structure around it.
-
-I tend to optimize for systems with:
-
-* explicit semantics
-* predictable behavior
-* small, understandable abstractions
-* centralized invariants
-* minimal accidental complexity
-* architecture that makes incorrect implementations harder to introduce
-
-A question I keep coming back to is:
+- explicit semantics and predictable behavior
+- small, understandable abstractions
+- centralized invariants rather than scattered special cases
+- architecture that makes incorrect implementations harder to introduce
+- codebases where a change does not require reconstructing the entire system in your head
 
 > **How should the system be structured so the next change is difficult to get wrong?**
 
----
+</details>
 
-## Writing
+<br>
 
-I write about programming languages, compiler architecture, software engineering,
-developer tooling, and implementation experiments at:
+## Working Set
 
-### [itsfuad.com](https://itsfuad.com)
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Go · C · Rust · C++ · TypeScript · Python · C# · Lua</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>SvelteKit · Astro · React</td>
+</tr>
+<tr>
+<td><b>Compiler work</b></td>
+<td>Parsing · Semantic Analysis · Type Systems · Ownership · Data Flow · LSP</td>
+</tr>
+<tr>
+<td><b>Systems</b></td>
+<td>Linux · Networking · Databases · IPC · Platform Abstractions</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>Git · Zed · VS Code · CMake</td>
+</tr>
+</table>
 
----
+<br>
 
-<div align="center">
-
-<sub>
-languages · compilers · systems · tooling
-</sub>
-
-<br><br>
-
-<a href="https://www.buymeacoffee.com/itsfuad">
-  <img
-    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-    height="36"
-    alt="Buy Me A Coffee"
-  />
+<a href="https://itsfuad.com">
+  <img src="./assets/profile/footer.svg" width="100%" alt="Code by day, music by night — itsfuad.com" />
 </a>
-
-</div>

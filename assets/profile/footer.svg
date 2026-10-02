@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img">
+<rect x="1" y="1" width="1198" height="148" rx="22" fill="#F3EEE5" stroke="#D8D0C5"/>
+<rect x="45" y="45" width="22" height="22" fill="#F14A24"/>
+<text x="88" y="72" font-family="Georgia, Times New Roman, serif" font-size="34" font-weight="700" fill="#181716">Code by day, music by night.</text>
+<text x="88" y="105" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#716B63">Compilers · systems · developer tooling · open source</text>
+<text x="1005" y="82" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="700" fill="#F14A24">itsfuad.com →</text>
+</svg>
